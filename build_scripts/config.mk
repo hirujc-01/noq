@@ -9,7 +9,7 @@ export ASM = nasm
 export LINKFLAGS =
 export LIBS =
 
-export TARGET = /home/hirujc/Toolchain/i686-elf/bin/i686-elf
+export TARGET = /home/hirujc/.toolchain/i686-elf/bin/i686-elf
 export TARGET_ASM = nasm
 export TARGET_ASMFLAGS =
 export TARGET_CFLAGS = -std=c99 -g #-O2
