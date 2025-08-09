@@ -1,3 +1,4 @@
+git stash
 git pull
 clear
 make clean
