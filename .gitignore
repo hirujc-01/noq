@@ -1,2 +1,4 @@
 build
-gitdiff.sh
+getnrun.sh
+pullnrun.sh
+main_floppy.img
