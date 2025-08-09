@@ -1,4 +1,4 @@
 build
 getnrun.sh
-pullnrun.sh
+pullnbuild.sh
 main_floppy.img
